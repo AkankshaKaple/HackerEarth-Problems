@@ -1,2 +1,2 @@
 # HackerEarth-Problems
-This repository contains the problem I solved for logic building
+This repository contain the problems I solved for logic building
